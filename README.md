@@ -66,8 +66,7 @@ Academic and personal projects exploring real-world datasets using statistical m
 
 ## GitHub Stats
 
-![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardaogulcanuzer&show_icons=true&theme=tokyonight)
-
+![Arda's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ardaogulcanuzer&show_icons=true&theme=tokyonight)
 ---
 
 ## Connect with Me
