@@ -1,59 +1,76 @@
 # Arda Uzer | Data Science & Business Analytics
 
-🎓 MSc Student in **Data Science & Business Analytics**  
-📊 Interested in **Data Analysis, Machine Learning, and Data-Driven Decision Making**
+🎓 MSc Student in Data Science & Business Analytics   
+📊 Data Analysis • Machine Learning • Statistical Modeling
+
+Exploring data, building models, and transforming information into actionable insights.
 
 ---
 
 ## About Me
 
-I enjoy working with data to discover patterns, build analytical models, and transform raw datasets into meaningful insights.
+I work on analytical projects focused on extracting insights from data using statistical methods and machine learning.
 
-My projects focus on:
+My interests include:
 
-- Data analysis and statistical modeling  
-- Machine learning applications  
-- Data exploration and feature engineering  
-- Analytical workflows using Python, R, and SQL  
+- Data analysis and exploratory data analysis (EDA)
+- Machine learning modeling
+- Feature engineering and data preparation
+- Statistical analysis and quantitative methods
+- Data-driven decision making
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-Python | R | SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Libraries & Tools**
+### Data Science Libraries
 
-Pandas  
-NumPy  
-Scikit-learn  
-Matplotlib  
-Seaborn  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-**Other Tools**
+### Visualization
 
-Git  
-Jupyter Notebook  
-RStudio  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge)
 
 ---
 
 ## Featured Projects
 
-🔹 **ATP Tennis Player Similarity Analysis**  
-A project analyzing professional tennis match data and identifying similar player profiles using cosine similarity and performance features.
+**ATP Tennis Player Similarity Analysis**
 
-🔹 **Anime Recommendation / Association Analysis (R)**  
-Market-basket style analysis using association rules to discover patterns in anime preferences.
+Data analysis project using ATP match statistics to identify similar player profiles using cosine similarity and performance features.
 
-🔹 **Statistical & Data Analysis Projects**  
-Various academic and personal projects exploring real-world datasets with statistical and machine learning techniques.
+**Association Rule Analysis (R)**
+
+Market-basket style analysis applying association rule mining to identify preference patterns in datasets.
+
+**Statistical & Machine Learning Projects**
+
+Academic and personal projects exploring real-world datasets using statistical modeling and machine learning techniques.
 
 ---
 
-## Connect with me
+## GitHub Stats
+
+![Arda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardaogulcanuzer&show_icons=true&theme=tokyonight)
+
+---
+
+## Connect with Me
 
 LinkedIn  
 https://linkedin.com/in/ardaogulcanuzer
