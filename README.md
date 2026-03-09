@@ -50,15 +50,15 @@ My interests include:
 
 ## Featured Projects
 
-**ATP Tennis Player Similarity Analysis**
+### [ATP Tennis Player Similarity Analysis](https://github.com/ardaogulcanuzer/tennis-player-similarity)
 
 Data analysis project using ATP match statistics to identify similar player profiles using cosine similarity and performance features.
 
-**Association Rule Analysis (R)**
+### Association Rule Analysis (R)
 
 Market-basket style analysis applying association rule mining to identify preference patterns in datasets.
 
-**Statistical & Machine Learning Projects**
+### Statistical & Machine Learning Projects
 
 Academic and personal projects exploring real-world datasets using statistical modeling and machine learning techniques.
 
