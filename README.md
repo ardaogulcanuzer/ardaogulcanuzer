@@ -54,7 +54,7 @@ My interests include:
 
 Data analysis project using ATP match statistics to identify similar player profiles using cosine similarity and performance features.
 
-### Association Rule Analysis (R)
+### [Association Rule Analysis (R)](https://github.com/ardaogulcanuzer/anime-association-rules)
 
 Market-basket style analysis applying association rule mining to identify preference patterns in datasets.
 
